@@ -1,10 +1,6 @@
-# Emacs Lisp REPL in browser by WebSocket
+# Emacs Chat with websocket.el
 
-*This is only demonstration*. This Web Application may damage your platform.
-
-# ScreenShot
-
-![ws-elisp-repl](https://github.com/syohex/emacs-ws-elisp-repl/raw/master/image/ws-elisp-repl.png)
+*This is Kansai Emacs x06 demonstration*.
 
 
 ## Requirements
